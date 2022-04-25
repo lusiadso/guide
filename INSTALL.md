@@ -171,6 +171,11 @@ server {
 ```
 Жмем Ctrl + x, затем Y, затем Enter
 
+Перезагружаем nginx
+```
+sudo service nginx restart
+```
+
 ## Установка Composer
 
 ```
